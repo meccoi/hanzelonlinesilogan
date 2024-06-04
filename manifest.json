@@ -7,7 +7,7 @@
     "display": "standalone",
     "orientation": "any",
     "scope": "/",
-    "start_url": "http://hanzelonlinesilogan.free.nf/?i=2",
+    "start_url": "https://hanzelonlinesilogan.free.nf/?i=2",
     "icons": [
         {
             "src": "icons/icon_192.png",
